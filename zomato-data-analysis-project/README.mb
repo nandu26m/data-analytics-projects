@@ -16,7 +16,6 @@ The dataset used in this project is downloaded from [Kaggle: Zomato Dataset](htt
 
 ## Project Directory Structure
 
-The project is organized to maintain clarity and reproducibility:
-
 ![Database Schema](./docs/Project%20out%20line.png)
 
+> Visual representation of the project folder structure.
