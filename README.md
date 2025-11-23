@@ -1,4 +1,4 @@
-Perfect! I’ll update your README to reflect that this is **Project One** and more are coming soon 🚀
+Perfect! I’ll update your README to reflect that this is **Project One** and more are coming soon
 Here is the improved **README.md** for your GitHub repo:
 
 ---
