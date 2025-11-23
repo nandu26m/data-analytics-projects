@@ -1,1 +1,21 @@
+# Zomato Data Cleaning & Transformation Project
+
+## Project Overview
+This project demonstrates the process of cleaning and transforming a real-world dataset from Zomato. The goal is to prepare the data for analysis or modeling by performing the following steps:
+
+1. Deleting redundant columns  
+2. Renaming columns for clarity  
+3. Dropping duplicate rows  
+4. Cleaning individual columns (trimming spaces, handling missing values, fixing inconsistent entries)  
+5. Handling missing values (`NaN`) effectively  
+6. Applying additional data transformations (creating new features, encoding categorical variables, scaling numeric columns)  
+
+The dataset used in this project is downloaded from [Kaggle: Zomato Dataset](https://www.kaggle.com/datasets/rishikeshkonapure/zomato).
+
+---
+
+## Project Directory Structure
+
+The project is organized to maintain clarity and reproducibility:
+
 
